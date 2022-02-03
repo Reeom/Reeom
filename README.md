@@ -1,4 +1,4 @@
-# Hi there 👋, you can call Reeom
+# Hi there 👋, you can call me Reeom
 
 I specializes on becoming a better front-end developer and back-end developer.
 
