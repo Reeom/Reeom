@@ -2,7 +2,6 @@
 
 I am a web application, front-end, back-end developer. I have been exploring web developing for a year plus two years experience working on my projects.
 
-
 ## What I do
 
 I develop websites that is functional. Not just a simple static website that is limited in functionality.
@@ -41,5 +40,7 @@ I develop websites that is functional. Not just a simple static website that is 
 <!-- Credits to Anuraghazra for github-readme-stats https://github.com/anuraghazra/github-readme-stats, thank you! from Reeneir. -->
 ## <p align="left">Latest stats</p>
 
-![Reeneir's GitHub stats](https://github-readme-stats-reeom.vercel.app/api?username=reeom&show_icons=true)
-[![Top Langs](https://github-readme-stats-reeom.vercel.app/api/top-langs/?username=reeom&langs_count=4)](https://github.com/anuraghazra/github-readme-stats)
+![Reeneir's GitHub stats](https://github-readme-stats-reeom.vercel.app/api?username=reeom&show_icons=true&include_all_commits=true)
+![Top Langs](https://github-readme-stats-reeom.vercel.app/api/top-langs/?username=reeom&langs_count=4)
+
+Github readme stats Powered by: https://github.com/anuraghazra/github-readme-stats
