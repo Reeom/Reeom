@@ -1,6 +1,7 @@
 # Hi there 👋, I'm Reeneir
 
-I am a web application, front-end, back-end developer.
+I am a web application, front-end, back-end developer. I have been exploring web developing for a year plus two years experience working on my projects.
+
 
 ## What I do
 
@@ -10,7 +11,10 @@ I develop websites that is functional. Not just a simple static website that is 
 - 🌱 I’m currently learning on improving accessibility in my projects
 - 🤔 I'm currently studying on ways to prevent website vulnerability
 
+</br>
+
 ### Languages and tools I use 
+</br>
 <!-- React / Remix / Nextjs / JS/ HTML / CSS / SCSS / TailwindCSS / Prettier / GRAPHQL / RESTAPI / MYSQL / NoSQL / NodeJS / PHP -->
 
 <!-- Credits to alexandreanlim et. al for the badges https://github.com/alexandresanlim/Badges4-README.md-Profile, thank you! from Reeneir. -->
@@ -36,10 +40,6 @@ I develop websites that is functional. Not just a simple static website that is 
 
 
 <!-- Credits to Anuraghazra for github-readme-stats https://github.com/anuraghazra/github-readme-stats, thank you! from Reeneir. -->
-## My stats
+## <p align="left">Latest stats</p>
 
 ![Reeneir's GitHub stats](https://github-readme-stats.vercel.app/api?username=reeom&show_icons=true)
-
-## Links and others
-
-My website: still at development
