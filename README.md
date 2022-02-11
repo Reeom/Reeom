@@ -42,4 +42,4 @@ I develop websites that is functional. Not just a simple static website that is 
 
 ## Links and others
 
-View my portfolio at [still at development](#)
+My website: still at development
