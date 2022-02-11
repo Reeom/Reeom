@@ -4,7 +4,7 @@ I am a web application, front-end, back-end developer.
 
 ## What I do
 
-I develop websites that is functional. Not just a static website that is limited in functionality.
+I develop websites that is functional. Not just a simple static website that is limited in functionality.
 
 - 🔭 I’m currently working on my side projects
 - 🌱 I’m currently learning on improving accessibility in my projects
@@ -13,6 +13,7 @@ I develop websites that is functional. Not just a static website that is limited
 ### Languages and tools I use 
 <!-- React / Remix / Nextjs / JS/ HTML / CSS / SCSS / TailwindCSS / Prettier / GRAPHQL / RESTAPI / MYSQL / NoSQL / NodeJS / PHP -->
 
+<!-- Credits to alexandreanlim et. al for the badges https://github.com/alexandresanlim/Badges4-README.md-Profile, thank you! from Reeneir. -->
 ![image](https://img.shields.io/badge/HTML5-E34F26?style=for-the-badge&logo=html5&logoColor=white)
 ![image](https://img.shields.io/badge/CSS3-1572B6?style=for-the-badge&logo=css3&logoColor=white)
 ![image](https://img.shields.io/badge/JavaScript-323330?style=for-the-badge&logo=javascript&logoColor=F7DF1E)
@@ -34,6 +35,11 @@ I develop websites that is functional. Not just a static website that is limited
 <!-- ![image]() -->
 
 
-<!-- Credits to Anuraghazra for github-readme-stats https://github.com/anuraghazra/github-readme-stats, thank you!. -->
+<!-- Credits to Anuraghazra for github-readme-stats https://github.com/anuraghazra/github-readme-stats, thank you! from Reeneir. -->
+## My stats
+
 ![Reeneir's GitHub stats](https://github-readme-stats.vercel.app/api?username=reeom&show_icons=true)
 
+## Links and others
+
+View my portfolio at [still at development](#)
