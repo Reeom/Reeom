@@ -15,8 +15,8 @@ I develop websites that is functional. Not just a simple static website that is 
 
 ### Languages and tools I use 
 </br>
-<!-- React / Remix / Nextjs / JS/ HTML / CSS / SCSS / TailwindCSS / Prettier / GRAPHQL / RESTAPI / MYSQL / NoSQL / NodeJS / PHP -->
 
+<!-- React / Remix / Nextjs / JS/ HTML / CSS / SCSS / TailwindCSS / Prettier / GRAPHQL / RESTAPI / MYSQL / NoSQL / NodeJS / PHP -->
 <!-- Credits to alexandreanlim et. al for the badges https://github.com/alexandresanlim/Badges4-README.md-Profile, thank you! from Reeneir. -->
 ![image](https://img.shields.io/badge/HTML5-E34F26?style=for-the-badge&logo=html5&logoColor=white)
 ![image](https://img.shields.io/badge/CSS3-1572B6?style=for-the-badge&logo=css3&logoColor=white)
@@ -38,8 +38,8 @@ I develop websites that is functional. Not just a simple static website that is 
 ![image](https://img.shields.io/badge/json-5E5C5C?style=for-the-badge&logo=json&logoColor=white)
 <!-- ![image]() -->
 
-
 <!-- Credits to Anuraghazra for github-readme-stats https://github.com/anuraghazra/github-readme-stats, thank you! from Reeneir. -->
 ## <p align="left">Latest stats</p>
 
-![Reeneir's GitHub stats](https://github-readme-stats.vercel.app/api?username=reeom&show_icons=true)
+![Reeneir's GitHub stats](https://github-readme-stats-reeom.vercel.app/api?username=reeom&show_icons=true)
+[![Top Langs](https://github-readme-stats-reeom.vercel.app/api/top-langs/?username=reeom&langs_count=4)](https://github.com/anuraghazra/github-readme-stats)
