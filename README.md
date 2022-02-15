@@ -2,6 +2,14 @@
 
 I am a web application, front-end, back-end developer. I have been exploring web developing for a year plus two years experience working on my projects.
 
+## Contact
+
+Reach me out at 
+
+<a href="mailto:reeneirm@outlook.com">
+<img src="https://img.shields.io/badge/Microsoft_Outlook-0078D4?style=for-the-badge&logo=microsoft-outlook&logoColor=white" alt="Email me at reeneirm@outlook.com"/>
+</a>
+
 ## What I do
 
 I develop websites that is functional. Not just a simple static website that is limited in functionality.
