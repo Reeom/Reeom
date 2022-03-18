@@ -12,8 +12,6 @@ Reach me out at
 
 ## What I do
 
-I develop websites that is functional. Not just a simple static website that is limited in functionality.
-
 - 🔭 I’m currently working on my side projects
 - 🌱 I’m currently learning on improving accessibility in my projects
 - 🤔 I'm currently studying on ways to prevent website vulnerability
