@@ -1,6 +1,6 @@
 # Hi there 👋, I'm Reeneir
 
-I am a web application, front-end, back-end developer. I have been exploring web developing for a year plus two years experience working on my projects.
+I am a web application, front-end, back-end developer.
 
 ## Contact
 
