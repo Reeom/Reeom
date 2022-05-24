@@ -6,8 +6,8 @@ I am a web application, front-end, back-end developer.
 
 Reach me out at 
 
-<a href="mailto:reeneirm@outlook.com">
-<img src="https://img.shields.io/badge/Microsoft_Outlook-0078D4?style=for-the-badge&logo=microsoft-outlook&logoColor=white" alt="Email me at reeneirm@outlook.com"/>
+<a href="mailto:me@reeneir.dev">
+Reach me out
 </a>
 
 ## What I do
