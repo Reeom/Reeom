@@ -6,8 +6,8 @@ I am a web application, front-end, back-end developer.
 
 Reach me out at 
 
-<a href="mailto:me@reeneir.dev">
-Reach me out
+<a href="mailto:hello@reeneir.dev">
+✉️ hello@reeneir.dev
 </a>
 
 ## What I do
