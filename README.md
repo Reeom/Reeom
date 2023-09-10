@@ -50,4 +50,4 @@ I'm currently focused on improving my skills in:
 ![Reeneir's GitHub stats](https://github-readme-stats-1zw9143vc-reeom.vercel.app/api?username=reeom&show_icons=true&include_all_commits=true)
 
 ## 🌐 My Top Languages
-![Top Langs](https://github-readme-stats-1zw9143vc-reeom.vercel.app/api/top-langs/?username=reeom&langs_count=4)
+![Top Langs](https://github-readme-stats-1zw9143vc-reeom.vercel.app/api/top-langs/?username=reeom&langs_count=7)
