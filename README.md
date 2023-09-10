@@ -2,13 +2,12 @@
 
 I am a web application, front-end, back-end developer.
 
-## Contact
+## 📫 How to Reach Me
 
-Reach me out at 
+You can connect with me on the following platforms:
 
-<a href="mailto:hello@reeneir.dev">
-✉️ hello@reeneir.dev
-</a>
+- [Create a message](https://message.reeneir.dev/new)
+- Email: <a href="mailto:contact@reeneir.dev	">✉️ contact@reeneir.dev	</a>
 
 ## What I do
 
