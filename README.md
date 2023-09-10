@@ -1,23 +1,25 @@
 # Hi there 👋, I'm Reeneir
 
-I am a web application, front-end, back-end developer.
+I'm a Web App developer based in the Philippines.
 
 ## 📫 How to Reach Me
 
 You can connect with me on the following platforms:
 
 - [Create a message](https://message.reeneir.dev/new)
-- Email: <a href="mailto:contact@reeneir.dev	">✉️ contact@reeneir.dev	</a>
+- Email: <a href="mailto:contact@reeneir.dev">✉️ contact@reeneir.dev	</a>
 
-## What I do
+## 🌱 I'm Currently Learning
 
-- 🔭 I’m currently working on my side projects
-- 🌱 I’m currently learning on improving accessibility in my projects
-- 🤔 I'm currently studying on ways to prevent website vulnerability
+I'm currently focused on improving my skills in:
 
-</br>
+- CodeIgniter
+- Accessibility in my projects
+- Preventing website vulnerability
+- Best practices | Conventions
 
-### Languages and tools I use 
+
+## Languages and tools I use 
 </br>
 
 <!-- React / Remix / Nextjs / JS/ HTML / CSS / SCSS / TailwindCSS / Prettier / GRAPHQL / RESTAPI / MYSQL / NoSQL / NodeJS / PHP -->
@@ -43,9 +45,9 @@ You can connect with me on the following platforms:
 <!-- ![image]() -->
 
 <!-- Credits to Anuraghazra for github-readme-stats https://github.com/anuraghazra/github-readme-stats, thank you! from Reeneir. -->
-## <p align="left">Latest stats</p>
 
+## 📈 GitHub Stats
 ![Reeneir's GitHub stats](https://github-readme-stats-1zw9143vc-reeom.vercel.app/api?username=reeom&show_icons=true&include_all_commits=true)
-![Top Langs](https://github-readme-stats-1zw9143vc-reeom.vercel.app/api/top-langs/?username=reeom&langs_count=4)
 
-Github readme stats Powered by: https://github.com/anuraghazra/github-readme-stats
+## 🌐 My Top Languages
+![Top Langs](https://github-readme-stats-1zw9143vc-reeom.vercel.app/api/top-langs/?username=reeom&langs_count=4)
