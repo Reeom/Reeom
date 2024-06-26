@@ -6,8 +6,7 @@ I'm a Web App developer based in the Philippines.
 
 You can connect with me on the following platforms:
 
-- [Create a message](https://message.reeneir.dev/new)
-- Email: <a href="mailto:contact@reeneir.dev">✉️ contact@reeneir.dev	</a>
+- Email: ✉️ <a href="mailto:contact@reeneir.dev">contact@reeneir.dev	</a>
 
 ## 🌱 I'm Currently Learning
 
