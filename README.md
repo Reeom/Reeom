@@ -46,7 +46,4 @@ I'm currently focused on improving my skills in:
 <!-- Credits to Anuraghazra for github-readme-stats https://github.com/anuraghazra/github-readme-stats, thank you! from Reeneir. -->
 
 ## 📈 GitHub Stats
-![Reeneir's GitHub stats](https://github-readme-stats-1zw9143vc-reeom.vercel.app/api?username=reeom&show_icons=true&include_all_commits=true)
-
-## 🌐 My Top Languages
-![Top Langs](https://github-readme-stats-1zw9143vc-reeom.vercel.app/api/top-langs/?username=reeom&langs_count=7)
+<img src="https://github-readme-stats-c1knw7y3p-reeoms-projects.vercel.app/api?username=reeom&hide_title=false&hide_rank=false&show_icons=true&include_all_commits=true&count_private=true&disable_animations=false&theme=ambient_gradient&locale=en&hide_border=false" height="200" alt="stats graph"  /><img src="https://github-readme-stats-c1knw7y3p-reeoms-projects.vercel.app/api/top-langs?username=reeom&locale=en&hide_title=false&layout=compact&card_width=400&langs_count=7&theme=ambient_gradient&hide_border=false&exclude_repo=facility-reservation-system" height="200" alt="languages graph"  />
