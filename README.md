@@ -12,7 +12,7 @@ You can connect with me on the following platforms:
 
 I'm currently focused on improving my skills in:
 
-- CodeIgniter
+- Laravel
 - Accessibility in my projects
 - Preventing website vulnerability
 - Best practices | Conventions
